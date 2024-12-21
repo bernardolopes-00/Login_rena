@@ -55,7 +55,6 @@ login-page/
 - Adicionar validação dos campos com JavaScript.
 - Implementar funcionalidade real de autenticação utilizando APIs.
 - Melhorar a acessibilidade (A11y) para usuários com deficiência.
-- Criar um modo claro/escuro para maior personalização.
 
 ---
 
@@ -64,7 +63,7 @@ Este projeto está sob a licença MIT. Você pode usá-lo e modificá-lo conform
 
 ---
 
-![Mockup da página](./img/bg-forest.svg)
+![Mockup da página](./img/mockup.png)
 
 **[Acesse o Projeto](https://login-rena.netlify.app/)**
 
